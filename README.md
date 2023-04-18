@@ -11,12 +11,12 @@ PS: Descrição em construção...
 	 <img align="center" alt="icon-mysql" height="30" width="40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
   <img align="right" alt="icon-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202304/338224_ibuCoSaU.png">
-</div>
+
+  ![Snake animation](https://github.com/annapedrussi/annapedrussi/blob/output/github-contribution-grid-snake.svg)
+  <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
   
   ##
-  
-  <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
   ##
  
 <div> 
