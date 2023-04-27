@@ -12,7 +12,7 @@ PS: Descrição em construção...
   <img align="right" alt="icon-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202304/338224_ibuCoSaU.png">
 </div>
   
-<!--    ![Snake animation](https://github.com/annapedrussi/annapedrussi/blob/output/github-contribution-grid-snake.svg) -->
+
    
   ##
  
